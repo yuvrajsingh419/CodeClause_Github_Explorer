@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.avatar{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-image: url('https://images.unsplash.com/photo-1635606511031-6ef8c6cbf9f9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGdpdGh1YnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1600px 1500px;
+    color: aliceblue;
+}
+
+#form{
+    margin: 170px 0px 10px 200px;
+}
+input{
+    padding: 13px 70px;
+    border: 3px solid indianred;
+    border-end-start-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+#main{
+    /* background-color: palevioletred; */
+    margin: 30px 700px 10px 180px;
+}
+
+.card{
+    display: flex;
+    /* border: 3px dashed darkcyan; */
+    border-radius: 10px;
+    padding: 15px;
+}
+
+
+
+a{
+    margin-right: 35px;
+}
+
+.info{
+    display: flex;
+}
+li{
+    margin-right: 25px;
+}
+h2{
+font-weight: 800;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+p{
+    font-size: large;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+
+.user-info{
+    margin-left: 40px;
+}
+
+#repos{
+
+}
